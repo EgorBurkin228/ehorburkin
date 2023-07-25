@@ -1,6 +1,6 @@
 # ehorburkin
-<p><a href="https://burkin.org">Burkin Egor</a> - Python technologies<br />Interactive applications for ML and datasearch. These interactive applications provide an amazing opportunity to create and analyze data.</p>
-
+<p><a href="https://burkin.org">Burkin Egor</a> - Python technologies Interactive applications for ML and datasearch. These interactive applications provide an amazing opportunity to create and analyze data.</p>
+<br />
 Hello everyone! ✌ ✌  My name is Egor Burkin and I am a professional programmer and software developer. I  specialize in creating effective programs to revolutionize business with Python and  Django.
 
 I have been using these two languages for many years, creating comprehensive and user-friendly web solutions for many companies. Recently, I had the opportunity to help one of my clients transform their enterprise with the help of software.
