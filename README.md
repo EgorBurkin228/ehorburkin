@@ -1,6 +1,6 @@
 # The Power of Python and Django: Revolutionizing Industries One Application at a Time - Ehor Burkin
 <p><a href="https://burkin.org">Burkin Egor</a> - Python technologies Interactive applications for ML and datasearch. These interactive applications provide an amazing opportunity to create and analyze data.</p>
-<br />
+<br /><br />
 
 >>> "Introduction: Meet Egor Burkin, a Python and Django Specialist"
 
@@ -13,7 +13,7 @@ Volodymyr Levchenko is the owner of an e-commerce company in the production of a
 After a thorough study of the customer's needs, coding began - an exciting stage for any programmer! New data models were built... Emerging problems were quickly resolved... The code has been optimized... Gradually, we went to the final goal. As a result, the result exceeded all expectations! It's finally the day to launch a new website! People were just amazed at how easy it is to use: a user-friendly interface, a simple product selection process with filters... Non-essential duties were performed seamlessly thanks to Python's robust features...
 
 It was amazing! Vladimir no longer hears grumbling from his customers about the complexity of using the service - only positive reviews! Vladimir's startup received significant benefits from the transition from   an archaic system to a new one. And the  performance of Python/Django made it all possible! Can this be considered a victory?
-<br />
+<br /><br />
 
 >>> "Turning Glitches into Glory: The Story of an E-commerce Startup"
 
@@ -32,7 +32,7 @@ o-''|\_____/)
     (_/ (_/
 
 Vladimir's e-commerce venture is an amazing illustration of the power of programming to shake up an organization. It truly drives me to keep advancing in the field of data science using Python, Django and other technologies. This inspirational tale is just the start of major developments in technology that can reform businesses and individuals. I'm eager to see what's in store, and it's only going to get more exciting from here!
-<br />
+<br /><br />
 
 >>> "Next Adventure: Tackling Healthcare with MedHealth"
 
